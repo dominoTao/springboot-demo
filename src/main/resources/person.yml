@@ -1,0 +1,13 @@
+person:
+  last-name: 张三
+  age: 12
+  birth: 2017/12/13
+  boss: false
+  maps: {k1: v1, k2: v2}
+  lists:
+    - 李四
+    - 王五
+    - 赵六
+  dog:
+    name: 小狗
+    age: 2
